@@ -1,0 +1,86 @@
+baseURL = 'https://www.base205al.org/'
+languageCode = 'en-us'
+title = 'BASE - Birmingham Area Software Enthusiasts'
+
+defaultContentLanguage = "en"
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 6
+
+[languages.en]
+contentDir = "content/en"
+languageCode = 'en-US'
+weight = 1
+title = "BASE"
+# languageDirection = 'rtl' for Right-To-Left languages
+
+[languages.fr]
+contentDir = "content/fr"
+languageCode = 'fr-FR'
+weight = 2
+title = "BASE Fr"
+
+[languages.es]
+contentDir = "content/es"
+languageCode = 'es-ES'
+weight = 2
+title = "BASE Es"
+
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[services.disqus]
+  shortname = 'base205al'
+[params]
+  commentoEnable = true
+  date_format = '2006-01-02T15:04:05Z07:00'
+  background_color_class = "bg-gray"
+
+[params.ananke.social.follow]
+new_window_icon = true
+networks = [
+  "linkedin"
+  ,"github"
+  ,"twitter"
+  ,"facebook"
+]
+
+[params.ananke.social.share]
+networks = [
+  "linkedin"
+  ,"twitter"
+  ,"facebook"
+]
+
+[params.ananke.social.github]
+username = "base205al"
+[params.ananke.social.twitter]
+username = "base205al"
+[params.ananke.social.facebook]
+username = "people/BASE-Birmingham-Area-Software-Enthusiasts/61575048102778/"
+
+[params.ananke.social.linkedin]
+username = "74923663"
+profilelink = "https://www.linkedin.com/company/74923663"
+
+[params.ananke.social.networks.linkedin]
+slug = "linkedin"
+label = "LinkedIn"
+color = "#0077b5"
+profile = "https://www.linkedin.com/company/%s"
+icon = "linkedin" # font awesome brand icon name
+link = "https://www.linkedin.com/shareArticle"
+#separator = "&"
+[params.ananke.social.networks.linkedin.particles]
+url = "permalink"
+title = "title"
+summary = "description"
+source = "permalink"
+params = "mini=true"

@@ -11,3 +11,6 @@ cascade:
 Welcome to the Birmingham Area Software Enthusiasts!
 
 We're glad you're here!
+
+<a rel="me" href="https://mastodon.social/@base205al"></a>
+<meta name="fediverse:creator" content="@base205al@mastodon.social"/>

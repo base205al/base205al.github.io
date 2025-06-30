@@ -39,7 +39,7 @@ path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 [services.disqus]
   shortname = 'base205al'
 [params]
-  commentoEnable = true
+  commentoEnable = false
   date_format = '2006-01-02T15:04:05Z07:00'
   background_color_class = "bg-gray"
 

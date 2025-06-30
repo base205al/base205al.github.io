@@ -1,6 +1,6 @@
 +++
 date = '2025-06-30T10:00:00-05:00'
-draft = true
+draft = false
 title = 'Show and Tell'
 +++
 

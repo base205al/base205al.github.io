@@ -1,8 +1,10 @@
-+++
-date = '2025-06-30T10:00:00-05:00'
-draft = false
-title = 'Show and Tell'
-+++
+---
+date: 2025-06-30T10:00:00-05:00
+draft: false
+title: Show and Tell
+tags: 
+- ShowAndTell
+- ---
 
 The BASE community has a lot of offer, and we want everyone to be able to experience it!
 

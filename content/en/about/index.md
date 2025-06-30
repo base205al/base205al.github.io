@@ -12,7 +12,7 @@ BASE is the Birmingham Area Software Enthusiasts, a 501(c)3 organization, servin
 
 ## Our Mission
 
-BASE exists to foster a vibrant and inclusive software development community in the Birmingham metropolitan area. We believe that technology thrives when diverse minds come together to learn, share, and build. Our mission is to provide a supportive environment where software enthusiasts of all skill levels can expand their knowledge, develop their careers, and contribute to the local tech ecosystem.
+BASE exists to foster a vibrant and inclusive software development community in the Birmingham metropolitan area. We believe that technology thrives when diverse minds come together to learn, share, and build. Our mission is to provide a supportive environment where software enthusiasts of literally (not figuratively) ***any skill level***, from the newest n00b to the most seasoned pro, can expand their knowledge, develop their careers, and contribute to the Birmingham tech ecosystem.
 
 ## What We Do
 

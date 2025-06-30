@@ -48,6 +48,8 @@ new_window_icon = true
 networks = [
   "linkedin"
   ,"github"
+  ,"bluesky"
+  ,"mastodon"
   ,"twitter"
   ,"facebook"
 ]
@@ -55,12 +57,20 @@ networks = [
 [params.ananke.social.share]
 networks = [
   "linkedin"
+  ,"bluesky"
+  ,"mastodon"
   ,"twitter"
   ,"facebook"
 ]
 
 [params.ananke.social.github]
 username = "base205al"
+[params.ananke.social.bluesky]
+username = "base205al.bsky.social"
+[params.ananke.social.mastodon]
+username = "base205al"
+instance = "mastodon.social"
+profilelink = "https://mastodon.social/@base205al"
 [params.ananke.social.twitter]
 username = "base205al"
 [params.ananke.social.facebook]

@@ -42,5 +42,6 @@ This meetup is generally scheduled for the first Tuesday of every month.
 
 Currently, Show and Tell is hosted at Innovation Depot.  Individual instances of the Show And Tell are usually scheduled by Meetup and should be posted on this website.
 
-[Innovation Depot<br/>1500 1st Ave N, Birmingham, AL 35203](https://maps.app.goo.gl/jNXUaNXy8EMLcheC7)
+Innovation Depot 
+[1500 1st Ave N, Birmingham, AL 35203](https://maps.app.goo.gl/jNXUaNXy8EMLcheC7)
 

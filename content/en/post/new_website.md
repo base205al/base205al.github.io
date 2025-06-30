@@ -1,6 +1,6 @@
 ---
 date: 2025-06-30T15:16:55-05:00
-draft: true
+draft: false
 title: The Website
 featured_image: /images/elephant_in_room.jpg
 

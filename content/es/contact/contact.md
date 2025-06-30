@@ -1,16 +1,14 @@
 ---
 title: Contact
-featured_image: ''
 omit_header_text: true
-description: Send a message (in Spanish)
 type: page
 menu: main
+description: We'd love to hear from you
 
 ---
-
-Ceci est la page de contact en Français.
-
+# How to Contact BASE
 
 - [Discord](https://discord.gg/4mV77At86e)
 - [Email](mailto:contact@base205al.org) 
+
 

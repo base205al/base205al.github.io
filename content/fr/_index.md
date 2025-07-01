@@ -10,5 +10,7 @@ Bienvenue chez les Passionnés de Logiciels de la Région de Birmingham !
 
 Nous sommes ravis de vous accueillir !
 
+{{< rawhtml >}}
 <a rel="me" href="https://mastodon.social/@base205al"></a>
 <meta name="fediverse:creator" content="@base205al@mastodon.social"/>
+{{< /rawhtml >}}

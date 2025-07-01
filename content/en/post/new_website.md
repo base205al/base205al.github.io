@@ -3,10 +3,10 @@ date: 2025-06-30T15:16:55-05:00
 draft: false
 title: The Website
 featured_image: /images/elephant_in_room.jpg
+read_more_copy: "Read more about the website"
 
 ---
 
-Note: We realize the foreign language versions of this post are not yet available.  It appears to be a theme issue.
 
 Now that you're here, let's talk about the elephant ~~in the room~~ on the internet: this website.  
 
@@ -20,6 +20,8 @@ Third, please read and comment.  Currently, comments are in Disqus, and we may m
 
 Finally, we are going to ask you to contribute.  Soon, we will provide instructions for how to submit content.  This will be open strictly to BASE members, but we hope it will provide a place to capture the thoughts of our enthusiasts for a long time to come.
 
+> [!NOTE]
+> We realize the foreign language versions of the site might be a little rough.  We are working on improving them, but we wanted to get the content out there as soon as possible.  If you have suggestions for improvements, please let us know!
 
 ---
 

@@ -30,7 +30,7 @@ title = "BASE Es"
 
 
 [module]
-[[module.imports]]
+[module.imports]
 disable = false
 ignoreConfig = false
 ignoreImports = false

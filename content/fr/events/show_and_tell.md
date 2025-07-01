@@ -1,46 +1,46 @@
 ---
 date: 2025-06-30T10:00:00-05:00
 draft: false
-title: Show and Tell
+title: Présentation et Discussion
 tags: 
 - ShowAndTell
 
 ---
 
-The BASE community has a lot of offer, and we want everyone to be able to experience it!
+La communauté BASE a beaucoup à offrir, et nous voulons que tout le monde puisse en faire l'expérience !
 
-Every month, BASE sponsors a Show and Tell session where our enthusiasts bring what they are working on and spend 5 minutes showing it to the rest of us. 
+Chaque mois, BASE parraine une session de Présentation et Discussion où nos passionnés apportent leurs projets en cours et passent 5 minutes à les présenter au reste du groupe. 
 
-This all started when Chris Winslett posted a chat in Magic City Tech's slack team.
+Tout a commencé lorsque Chris Winslett a posté un message dans l'équipe Slack de Magic City Tech.
 
-> The goal here is to kick-start the developer meetup scene in Birmingham a little -- bring people together to show what they've been building + show what others are building. Looking to share knowledge and build some connections. Come and give a quick 3-5 minute presentation about what you've been building, then watch what others are building. Live demos are encouraged -- broken demos are cheered.
+> L'objectif ici est de dynamiser un peu la scène des rencontres de développeurs à Birmingham -- rassembler les gens pour montrer ce qu'ils construisent + voir ce que les autres construisent. Nous cherchons à partager des connaissances et créer des liens. Venez faire une présentation rapide de 3 à 5 minutes sur ce que vous construisez, puis découvrez ce que les autres construisent. Les démonstrations en direct sont encouragées -- les démos qui échouent sont acclamées.
 
-We've had a number of Show and Tell meetups and they've been well-received.  People have demonstrated tools and projects.  They have described theoretical systems and asked for input.  They have demo'd (far too successfully, if we're being honest).  
+Nous avons organisé plusieurs rencontres de Présentation et Discussion qui ont été bien accueillies. Les participants ont présenté des outils et des projets. Ils ont décrit des systèmes théoriques et sollicité des avis. Ils ont fait des démonstrations (avec trop de succès, si nous sommes honnêtes).
 
-We get new attendees and returning folks every time.  Come be one of them!
+Nous accueillons de nouveaux participants et des habitués à chaque fois. Venez nous rejoindre !
 
-## The Rules For Showing
-You are the presenter?  The rules are pretty simple.  
+## Les Règles pour Présenter
+Vous êtes le présentateur ? Les règles sont assez simples.
 
-- Bring something you're interested in showing to other people to the meetup and show it to them.  You'll get at least 5 minutes, depending on how may people are presenting, and possibly longer.
-- Do a demo, if it can be demo'd.  If your demo fails, you will get applause.  
-- There might be questions.  Stunned silence is also a possibility.
-- If you want feedback, ask for it.
+- Apportez quelque chose que vous souhaitez montrer aux autres lors de la rencontre. Vous aurez au moins 5 minutes, selon le nombre de présentateurs, et peut-être plus.
+- Faites une démonstration, si c'est possible. Si votre démo échoue, vous serez applaudis.
+- Il pourrait y avoir des questions. Un silence stupéfait est aussi une possibilité.
+- Si vous voulez des retours, demandez-les.
 
-## The Rules for Being Shown To
+## Les Règles pour le Public
 
-You're watching a presentation?
+Vous assistez à une présentation ?
 
-- Be respectful.  Someone is taking time to show you something.  It may not be relevant to you, and you may not be able to provide feedback.  
-- Be constructive.  If you're going to comment on all the work you didn't do, make that comment useful.  Add to the work.
+- Soyez respectueux. Quelqu'un prend le temps de vous montrer quelque chose. Cela peut ne pas être pertinent pour vous, et vous ne serez peut-être pas en mesure de donner un retour.
+- Soyez constructif. Si vous commentez tout le travail que vous n'avez pas fait, rendez ce commentaire utile. Contribuez au travail.
 
-## The Schedule
+## Le Planning
 
-This meetup is generally scheduled for the first Tuesday of every month. 
+Cette rencontre est généralement programmée le premier mardi de chaque mois. 
 
-## The Location
+## Le Lieu
 
-Currently, Show and Tell is hosted at Innovation Depot.  Individual instances of the Show And Tell are usually scheduled by Meetup and should be posted on this website.
+Actuellement, les Présentation et Discussion se déroulent à Innovation Depot. Les sessions individuelles sont généralement programmées via Meetup et devraient être annoncées sur ce site web.
 
 Innovation Depot 
 [1500 1st Ave N, Birmingham, AL 35203](https://maps.app.goo.gl/jNXUaNXy8EMLcheC7)

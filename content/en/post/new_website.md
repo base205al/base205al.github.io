@@ -6,6 +6,7 @@ featured_image: /images/elephant_in_room.jpg
 
 ---
 
+Note: We realize the foreign language versions of this post are not yet available.  It appears to be a theme issue.
 
 Now that you're here, let's talk about the elephant ~~in the room~~ on the internet: this website.  
 

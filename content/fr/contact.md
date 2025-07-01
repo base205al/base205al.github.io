@@ -2,6 +2,10 @@
 title: "Contact"
 description: "Contactez BASE"
 featured_image: '/images/BASE_Logo.png'
+omit_header_text: true
+type: page
+menu: main
+
 ---
 
 Vous souhaitez contacter BASE ? Voici plusieurs façons de nous joindre :

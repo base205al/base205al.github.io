@@ -2,6 +2,10 @@
 title: "Contacto"
 description: "Ponte en contacto con BASE"
 featured_image: '/images/BASE_Logo.png'
+omit_header_text: true
+type: page
+menu: main
+
 ---
 
 ¿Te gustaría ponerte en contacto con BASE? Aquí hay varias formas de hacerlo:

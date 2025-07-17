@@ -21,16 +21,22 @@ contentDir = "content/fr"
 languageCode = 'fr-FR'
 weight = 2
 title = "BASE Fr"
+[languages.fr.params]
+ read_more_copy = "Lire la suite de cet article"
 
 [languages.es]
 contentDir = "content/es"
 languageCode = 'es-ES'
 weight = 2
 title = "BASE Es"
+[languages.es.params]
+read_more_copy = "Leer más sobre esta entrada"
 
 
 [module]
-[module.imports]
+[[module.imports]]
+path = 'github.com/KKKZOZ/hugo-admonitions'
+[[module.imports]]
 disable = false
 ignoreConfig = false
 ignoreImports = false
@@ -40,8 +46,16 @@ path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
   shortname = 'base205al'
 [params]
   commentoEnable = false
-  date_format = '2006-01-02T15:04:05Z07:00'
+#  date_format = '2006-01-02T15:04:05Z07:00'
+  date_format = '2006-01-02'
   background_color_class = "bg-gray"
+  read_more_copy = "Read more about this entry"
+  show_reading_time = true
+  show_toc = true
+  show_share_buttons = true
+  body_classes = "sans-serif bg-near-white"
+  site_logo = "/images/BASE_Logo.png"
+
 
 [params.ananke.social.follow]
 new_window_icon = true

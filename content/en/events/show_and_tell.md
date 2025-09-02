@@ -4,7 +4,7 @@ draft: false
 title: Show and Tell
 tags: 
 - ShowAndTell
-
+featured_image: images/s_and_t_crazy.png
 ---
 
 The BASE community has a lot of offer, and we want everyone to be able to experience it!

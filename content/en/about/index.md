@@ -36,5 +36,7 @@ We welcome developers, designers, project managers, students, career changers, a
 
 ## Get Involved
 
-Join us for our regular meetups, contribute to our projects, or volunteer to share your expertise with others. BASE is what we make it together – a community where Birmingham's software talent can flourish and grow.  
+Join us for our regular meetups, on our [Discord server](./contact/), [contribute to our projects](https://github.com/orgs/base205al), or volunteer to share your expertise with others. 
+
+BASE is what we make it together – a community where Birmingham's software talent can flourish and grow.
 

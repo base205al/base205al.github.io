@@ -8,7 +8,24 @@ cascade:
 Welcome to the Birmingham Area Software Enthusiasts!
 
 We're glad you're here!
+
 {{< rawhtml >}}
+Please consider donating to BASE and supporting the work and events we are doing.
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'EPV6MYCRKWPMS',
+image: {
+src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
 <a rel="me" href="https://mastodon.social/@base205al"></a>
 <meta name="fediverse:creator" content="@base205al@mastodon.social"/>
 {{< /rawhtml >}}

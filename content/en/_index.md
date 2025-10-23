@@ -26,6 +26,4 @@ title:'PayPal - The safer, easier way to pay online!',
 }).render('#donate-button');
 </script>
 </div>
-<a rel="me" href="https://mastodon.social/@base205al"></a>
-<meta name="fediverse:creator" content="@base205al@mastodon.social"/>
 {{< /rawhtml >}}

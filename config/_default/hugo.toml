@@ -13,7 +13,7 @@ pagerSize = 6
 contentDir = "content/en"
 languageCode = 'en-US'
 weight = 1
-title = "BASE"
+title = 'BASE - Birmingham Area Software Enthusiasts'
 # languageDirection = 'rtl' for Right-To-Left languages
 
 [languages.fr]
@@ -22,7 +22,7 @@ languageCode = 'fr-FR'
 weight = 2
 title = "BASE Fr"
 [languages.fr.params]
- read_more_copy = "Lire la suite de cet article"
+read_more_copy = "Lire la suite de cet article"
 
 [languages.es]
 contentDir = "content/es"

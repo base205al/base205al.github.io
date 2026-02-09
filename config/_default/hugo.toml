@@ -108,3 +108,10 @@ title = "title"
 summary = "description"
 source = "permalink"
 params = "mini=true"
+
+[services]
+  [services.rss]
+    limit = 42
+
+[outputFormats.RSS]
+basename = "feed"

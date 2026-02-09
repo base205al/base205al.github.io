@@ -1,0 +1,6 @@
+img[src$='#floatright'] {
+    float: right;
+    margin-left: 1rem; /* Adjust space between text and image */
+    margin-bottom: 0.5rem;
+    max-width: 50%; /* Optional: limit width so it doesn't take over */
+}

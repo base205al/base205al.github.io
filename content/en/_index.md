@@ -7,7 +7,7 @@ cascade:
 
 Welcome to the Birmingham Area Software Enthusiasts!
 
-We're glad you're here!
+We're glad you're here!  Join the conversations on [Discord](./contact)
 
 {{< rawhtml >}}
 Please consider donating to BASE and supporting the work and events we are doing.

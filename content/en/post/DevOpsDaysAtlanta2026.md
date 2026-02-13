@@ -6,6 +6,7 @@ featured_image: '/images/DodAtl2026.jpg'
 tags: 
   - 'DevOpsDays'
   - events
+  - 2026
 event_date: '2026-04-21T08:00:00-05:00'
 event_location: https://www.devopsdays.org/events/2026-atlanta/welcome
 ---

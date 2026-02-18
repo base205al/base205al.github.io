@@ -13,7 +13,7 @@ title: "sloss.tech/dev 2026"
 
 It's happening again in 2026! BASE is running a development and engineering track at [sloss.tech](https://sloss.tech/) called sloss.tech/dev. ![SlossTech Dev 2025](/images/slosstech/2025/STD20205-15-med.jpeg) We're returning to the McWane Center, and we're excited to bring even more tech content to the conference this year. ![SlossTech Dev 2025](/images/slosstech/2025/STD20205-22-med.jpeg#floatright)
 
-At last year's [sloss.tech/dev](slosstechdev2025), we had a fantastic time running the track and engaging with the community. This year, we're looking forward to building on that success and providing even more valuable content for attendees. We will definitely have an exciting lineup of speakers and sessions planned (updates here as they come in), covering a wide range of topics in development and engineering.![SlossTech Dev 2025](/images/slosstech/2025/STD20205-28-med.jpeg#floatright)
+At last year's [sloss.tech/dev](slosstechdev2025), we had a fantastic time running the track and engaging with the community. This year, we're looking forward to building on that success and providing even more valuable content for attendees. We will definitely have an exciting lineup of speakers and sessions planned (updates here as they come in), covering a wide range of topics in development and engineering. ![SlossTech Dev 2025](/images/slosstech/2025/STD20205-28-med.jpeg#floatright)
 
 # Call for Proposals
 

@@ -4,6 +4,9 @@ draft: false
 title: The Website
 featured_image: /images/elephant_in_room.jpg
 read_more_copy: "Read more about the website"
+tags: 
+ - website
+ - development
 
 ---
 

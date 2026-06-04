@@ -6,6 +6,7 @@ tags:
  - events
  - development
  - tech
+ - 2025
 title: "sloss.tech/dev 2025 at the McWane Center"
 ---
 

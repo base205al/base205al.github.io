@@ -1,4 +1,4 @@
-github.com/KKKZOZ/hugo-admonitions v0.10.1 h1:ZJU157gve6JhmB5fHKWjwgRI80s+mFyCqASTkAHazLI=
-github.com/KKKZOZ/hugo-admonitions v0.10.1/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
-github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 h1:SxVd2+ADMcMiNSsCnAdBnoMMZAUfwHDCvDExZ5fRseo=
-github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1/go.mod h1:+a6uqEsCq0+rqHWY5W5QA3P9DNnxcbyCw+CVEB+Uveg=
+github.com/KKKZOZ/hugo-admonitions v0.12.1 h1:SMpeJ4/0VUXwpy1bgmyigNrXTPmAFrO28/+jQ4+dDpA=
+github.com/KKKZOZ/hugo-admonitions v0.12.1/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
+github.com/gohugo-ananke/ananke/v2 v2.17.0 h1:lGiSaMeOSPdO9rWw+jUkbWEGCnezQx4vHcqftfv40ws=
+github.com/gohugo-ananke/ananke/v2 v2.17.0/go.mod h1:HLy3O8WIkY0EmkMryllP6ilZVvAWz1XsLnfYLuD7dvE=

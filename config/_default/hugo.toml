@@ -40,7 +40,7 @@ path = 'github.com/KKKZOZ/hugo-admonitions'
 disable = false
 ignoreConfig = false
 ignoreImports = false
-path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+path = 'github.com/gohugo-ananke/ananke/v2'
 
 [services.disqus]
   shortname = 'base205al'

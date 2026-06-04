@@ -1,5 +1,5 @@
 ---
-date: 2026-06-25
+date: 2026-06-03
 description: "sloss.tech/dev"
 featured_image: "/images/SlossTechDev.jpg"
 tags: 
@@ -21,3 +21,5 @@ See our [schedule on the sloss.tech website](https://sloss.tech/schedule/) for m
 And because we know you want it, you can use the code `ALLYOURBASE` for 30% off your ticket!  Just select the ticket type you want and enter the code at checkout.
 
 [Last year was a blast](../slosstechdev2025), and we hope to see you there again this year!  Thanks to everyone who attended, spoke, and helped make the event a success.  We'd especially like to thank the McWane Center for hosting us and the Sloss.Tech team for organizing such a fantastic event!
+
+![SlossTech Dev 2025](/images/slosstech/2025/STD20205-15-med.jpeg)

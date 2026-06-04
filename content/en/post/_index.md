@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-date: 2025-06-24T07:46:00-05:00
+date: 2026-06-04
 ---
 
 Here is some BASE content for you to enjoy!

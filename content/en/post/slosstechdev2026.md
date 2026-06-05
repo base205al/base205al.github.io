@@ -18,6 +18,8 @@ We're running the engineering and development track, sloss.tech/dev, again this 
 
 See our [schedule on the sloss.tech website](https://sloss.tech/schedule/) for more details (Select `Track: Dev`).
 
+If you're interested in sponsoring the event, please fill out [this form](https://form.jotform.com/261316754130147) and we'll get in touch with you!
+
 And because we know you want it, you can use the code `ALLYOURBASE` for 30% off your ticket!  Just select the ticket type you want and enter the code at checkout.
 
 [Last year was a blast](../slosstechdev2025), and we hope to see you there again this year!  Thanks to everyone who attended, spoke, and helped make the event a success.  We'd especially like to thank the McWane Center for hosting us and the Sloss.Tech team for organizing such a fantastic event!

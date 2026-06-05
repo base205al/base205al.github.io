@@ -7,7 +7,7 @@ tags:
  - development
  - tech
  - 2025
-title: "sloss.tech/dev at the McWane Center"
+title: "sloss.tech/dev 2025 at the McWane Center"
 ---
 
 We ran a conference!

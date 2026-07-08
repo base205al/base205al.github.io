@@ -66,6 +66,7 @@ networks = [
   ,"mastodon"
   ,"twitter"
   ,"facebook"
+  ,"youtube"
 ]
 
 [params.ananke.social.share]
@@ -89,6 +90,9 @@ profilelink = "https://mastodon.social/@base205al"
 username = "base205al"
 [params.ananke.social.facebook]
 username = "people/BASE-Birmingham-Area-Software-Enthusiasts/61575048102778/"
+[params.ananke.social.youtube]
+username = "BASE205AL"
+
 
 [params.ananke.social.linkedin]
 username = "74923663"

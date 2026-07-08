@@ -55,6 +55,10 @@ path = 'github.com/gohugo-ananke/ananke/v2'
   show_share_buttons = true
   body_classes = "sans-serif bg-near-white"
   site_logo = "/images/BASE_Logo.png"
+  # Site-wide default og:image (used by Hugo's opengraph template when a page
+  # sets no featured_image / images of its own). Gives LinkedIn, etc. a
+  # thumbnail for the share preview card. Pages can override via front matter.
+  images = ["images/BASE_social_card.png"]
 
 
 [params.ananke.social.follow]
@@ -104,14 +108,26 @@ label = "LinkedIn"
 color = "#0077b5"
 profile = "https://www.linkedin.com/company/%s"
 icon = "linkedin" # font awesome brand icon name
-link = "https://www.linkedin.com/shareArticle"
-#separator = "&"
+# The theme default uses the deprecated /shareArticle endpoint, which LinkedIn
+# no longer honors. /sharing/share-offsite/ is the current working endpoint;
+# it reads title/description/image from the page's Open Graph tags, so only
+# `url` is passed.
+link = "https://www.linkedin.com/sharing/share-offsite/"
+# Hugo deep-merges config maps from theme modules, so the theme's default
+# particles (title/summary/source/mini) would merge back in. _merge = "none"
+# takes this table verbatim from our config instead.
 [params.ananke.social.networks.linkedin.particles]
+_merge = "none"
 url = "permalink"
-title = "title"
-summary = "description"
-source = "permalink"
-params = "mini=true"
+
+# The theme ships no `link`/`particles` for Mastodon, so its share button
+# renders a broken "%!s(<nil>)?" URL. Mastodon is federated with no universal
+# share endpoint; the convention is to route through your own instance's
+# /share?text= composer. `text = permalink` puts the post URL in the composer.
+[params.ananke.social.networks.mastodon]
+link = "https://mastodon.social/share"
+[params.ananke.social.networks.mastodon.particles]
+text = "permalink"
 
 [services]
   [services.rss]

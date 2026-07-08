@@ -71,6 +71,7 @@ networks = [
   ,"twitter"
   ,"facebook"
   ,"youtube"
+  ,"discord"
 ]
 
 [params.ananke.social.share]
@@ -98,7 +99,6 @@ username = "people/BASE-Birmingham-Area-Software-Enthusiasts/61575048102778/"
 username = "BASE205AL"
 [params.ananke.social.discord]
 username = "4mV77At86e"
-
 
 [params.ananke.social.linkedin]
 username = "74923663"
@@ -130,6 +130,16 @@ url = "permalink"
 link = "https://mastodon.social/share"
 [params.ananke.social.networks.mastodon.particles]
 text = "permalink"
+
+# The theme ships a discord.svg icon but no `networks.discord` definition, so
+# we supply one here. `profile` is a printf template filled with the invite
+# code from [params.ananke.social.discord].username → https://discord.gg/<code>.
+[params.ananke.social.networks.discord]
+slug = "discord"
+label = "Discord"
+color = "#5865F2"
+profile = "https://discord.gg/%s"
+icon = "discord"
 
 [services]
   [services.rss]

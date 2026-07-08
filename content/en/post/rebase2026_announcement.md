@@ -1,8 +1,8 @@
 ---
-date: '2026-06-25T05:30:15-05:00'
+date: '2026-07-08T05:30:15-05:00'
 draft: true
 title: 're:BASE 2026 Is Coming! '
-featured_image: '/images/meetups/all-your-base/AYB20260618.jpg'
+featured_image: '/images/rebase/2026/reBASE_logo.png'
 tags: 
   - 're:BASE'
 
@@ -10,9 +10,9 @@ tags:
 
 # re:BASE 2026
 
-Almost a decade ago, a few people in the Birmingham area had an idea for a conference: we would put on an engineering-focused conference that would be welcoming to everyone, regardless of their background or experience level.  We wanted to create a space where people could come together to learn, share ideas, and connect with other software professionals in the area.  That idea was tentatively going to be called re:BASE.  Unfortunately, re:BASE was never able to get off the ground for a wide variety of reasons, but the idea of such an event has always been in the back of our minds.  It was the reason that we started running DevOps Days Birmingham in 2022, which ran for 3 years.  Last year our friends at TechBirmingham and sloss.tech helped us present Sloss.tech/dev during sloss.tech 2025, which was a huge success.  We're repeating that partnership again this year for sloss.tech/dev 2026, and of course, we're really excited about it.  We hope to continue to partner with TechBirmingham and sloss.tech for many years to come, and we hope that sloss.tech/dev continues to be a great event for the local software community.
+Almost a decade ago, a few people in the Birmingham area had an idea for a conference: we would put on an engineering-focused conference that would be welcoming to everyone, regardless of their background or experience level.  We wanted to create a space where people could come together to learn, share ideas, and connect with other software professionals in the area.  That idea was tentatively going to be called re:BASE.  Unfortunately, re:BASE was never truly able to get off the ground for a wide variety of reasons, but the idea of such an event has always been in the back of our minds.  It was the reason that we started running DevOps Days Birmingham in 2022, which ran for 3 years.  Last year our friends at [TechBirmingham](https://techbirmingham.com) and [sloss.tech](https://sloss.tech) helped us present Sloss.tech/dev during sloss.tech 2025, which was a huge success.  We repeatied that partnership again this year for sloss.tech/dev 2026, and we were very pleased with it.  We hope to continue to partner with TechBirmingham and sloss.tech for many years to come, and we hope that sloss.tech/dev continues to be a great event for the local software community.
 
-But we want to do more.  We want to create a conference that is focused on the local software community.  We want to create the same sort of space that sloss.tech/dev provides,  where people can come together to learn, share ideas, and connect with other software professionals in the area.  But we also want to create our own events.  
+But we want to do more.  We want to create a conference that is focused on the local software community.  We want to create the same sort of space that sloss.tech/dev provides, where people can come together to learn, share ideas, and connect with other software professionals in the area.  But we also want to create our own events.  
 
 BASE is very excited to announce that we're planning a conference in the Fall of 2026, and we're going to call it re:BASE!  We're still working out the details, but the event will be two days of all things BASE, with talks, panels, and activities related to software development and engineering.  We'll also have plenty of opportunities for networking and socializing with other software enthusiasts.
 

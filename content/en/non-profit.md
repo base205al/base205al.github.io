@@ -1,16 +1,14 @@
 ---
-title: Non-Profit Information
-omit_header_text: true
+title: Non-Profit
 type: page
-description: Our Google Validation Information
-
+description: BASE Non-Profit Information
+menu: main
 ---
-### Here is our corporate information for validation
+### Did you know?
+Birmingham Area Software Enthusiasts (BASE) is a 501(c)(3) non-profit organization!  Donations are accepted and are tax-deductible.
 
-- EIN: 33-3914948
-- Address:
+### For Filing Donation Forms
+- Charity ID: 33-3914948
+- Mailing Address:
+  - Birmingham Area Software Enthusiasts (BASE)
   - 1908 6th Street South, Birmingham, AL 35205
-- Officers:
-  - Mykel Alvis (mykel@base205al.org)
-  - Edward McLain (ed@base205al.org)
-  - Nichole Hare (nichole@base205al.org)

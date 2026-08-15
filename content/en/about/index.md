@@ -2,9 +2,7 @@
 title: "About"
 description: "Who ARE these people?"
 featured_image: '/images/BASE_Logo.png'
-menu:
-  main:
-    weight: 1
+menu: main
 ---
 {{< figure src="/images/BASE_Logo.png" title="Software in the 'ham" >}}
 

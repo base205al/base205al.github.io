@@ -1,5 +1,5 @@
 ---
-date: '2026-08-20T10:00:00-05:00'
+date: '2026-08-20T06:30:00-05:00'
 draft: false
 title: 're:BASE 2026 CFP is Live! '
 featured_image: '/images/rebase/2026/reBASE_logo.png'

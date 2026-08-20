@@ -16,7 +16,8 @@ But we want to do more.  We want to create a conference that is focused on the l
 
 BASE is very excited to announce that we're planning a conference in the Fall of 2026, and we're going to call it re:BASE!  We're still working out the details, but the event will be two days of all things BASE, with talks, panels, and activities related to software development and engineering.  We'll also have plenty of opportunities for networking and socializing with other software enthusiasts.
 
-If you are interested in attending, speaking, running a workshop, or sponsoring re:BASE 2026, please reach out to us at [this form](https://jotform.com/BASE205/rebase2026).  We would love to hear from you!
+
+If you are interested in attending, speaking, or running a workshop ~~, or sponsoring~~ re:BASE 2026, please submit your proposal [here](https://talks.base205al.org/rebase-2026/cfp).  If you're interested in sponsoring re:BASE 202, reach out to us at [this form](https://jotform.com/BASE205/rebase2026) or at rebase2026@base205al.org.  We would love to hear from you!
 
 ## Attending
 

@@ -14,7 +14,7 @@ The [re:BASE 2026 Call for Proposals (CFP)](https://talks.base205al.org/rebase-2
 
 # Sponsoring Opportunities
 
-We are also looking for sponsors to help support re:BASE 2026. If you are interested in sponsoring the event, please reach out to us through [this form](https://jotform.com/BASE205/rebase2026). We have a variety of sponsorship packages available, and we would be happy to work with you to find the right fit for your company. Sponsoring re:BASE 2026 is a great way to get your company in front of a highly engaged audience of software professionals, and it also helps us to make the event as successful as possible.
+We are also looking for sponsors to help support re:BASE 2026. If you are interested in sponsoring the event, please reach out to us through [this form](./rebase-2026-sponsor). We have a variety of sponsorship packages available, and we would be happy to work with you to find the right fit for your company. Sponsoring re:BASE 2026 is a great way to get your company in front of a highly engaged audience of software professionals, and it also helps us to make the event as successful as possible.
 
 # Anything Else?
 

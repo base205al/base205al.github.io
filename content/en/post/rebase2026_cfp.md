@@ -18,4 +18,4 @@ We are also looking for sponsors to help support re:BASE 2026. If you are intere
 
 # Anything Else?
 
-Reach out to use at rebase2026@base205al.org with any questions, comments, or concerns. We would love to hear from you!
+Reach out to us at rebase2026@base205al.org with any questions, comments, or concerns. We would love to hear from you!

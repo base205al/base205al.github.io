@@ -10,7 +10,7 @@ tags:
 
 # Call For Proposals for re:BASE 2026
 
-The [re:BASE 2026 Call for Proposals (CFP)](https://talks.base205al.org/rebase-2026/cfp) is now live! We are looking for speakers, panelists, and workshop leaders to share their knowledge and expertise with the local software community. If you have an idea for a talk, panel, or workshop that you think would be a good fit for the event, we encourage you to [submit your proposal](https://talks.base205al.org/rebase-2026/cfp). 
+The [re:BASE 2026 Call for Proposals (CFP)](https://talks.base205al.org/rebase-2026/cfp), November 4-5 at the McWane Center, is now live! We are looking for speakers, panelists, and workshop leaders to share their knowledge and expertise with the local software community. If you have an idea for a talk, panel, or workshop that you think would be a good fit for the event, we encourage you to [submit your proposal](https://talks.base205al.org/rebase-2026/cfp). 
 
 # Sponsoring Opportunities
 

@@ -17,20 +17,20 @@ Mais nous voulons aller plus loin. Nous voulons créer une conférence centrée 
 BASE est ravie d'annoncer que nous préparons une conférence pour l'automne 2026, et qu'elle s'appellera re:BASE ! Nous sommes encore en train de régler les détails, mais l'événement comprendra deux jours entièrement consacrés à BASE, avec des conférences, des tables rondes et des activités liées au développement et à l'ingénierie logicielle. Il y aura aussi de nombreuses occasions de réseauter et de socialiser avec d'autres passionnés de logiciel.
 
 
-Si vous souhaitez assister, intervenir ou animer un atelier ~~, ou sponsoriser~~ lors de re:BASE 2026, soumettez votre proposition [ici](https://talks.base205al.org/rebase-2026/cfp). Si vous souhaitez sponsoriser re:BASE 2026, contactez-nous via [ce formulaire](https://jotform.com/BASE205/rebase2026) ou à rebase2026@base205al.org. Nous serions ravis d'avoir de vos nouvelles !
+Si vous souhaitez assister, intervenir ou animer un atelier ~~, ou sponsoriser~~ lors de re:BASE 2026, soumettez votre proposition [ici](https://talks.base205al.org/rebase-2026/cfp). Si vous souhaitez sponsoriser re:BASE 2026, contactez-nous via [ce formulaire](/rebase-2026-sponsor/) ou à rebase2026@base205al.org. Nous serions ravis d'avoir de vos nouvelles !
 
 ## Participer
 
-Nous ouvrirons très bientôt les inscriptions pour re:BASE 2026 ; inscrivez-vous via le formulaire ci-dessus pour que nous puissions rester en contact. Nous nous attendons à ce que l'événement affiche complet rapidement, alors pensez à vous abonner à notre newsletter et à nous suivre sur les réseaux sociaux pour recevoir les dernières nouvelles.
+Nous ouvrirons très bientôt les inscriptions pour re:BASE 2026. Nous nous attendons à ce que l'événement affiche complet rapidement, alors pensez à vous abonner à notre newsletter et à nous suivre sur les réseaux sociaux pour recevoir les dernières nouvelles.
 
 ## Intervenir
 
-Nous acceptons actuellement les propositions de conférences et de tables rondes pour re:BASE 2026. Si vous avez une idée de conférence ou de table ronde qui conviendrait bien à l'événement, soumettez votre proposition via [ce formulaire](https://jotform.com/BASE205/rebase2026). Nous recherchons des conférences et des tables rondes sur un large éventail de sujets liés au développement et à l'ingénierie logicielle, alors n'hésitez pas à soumettre votre proposition !
+Nous acceptons actuellement les propositions de conférences et de tables rondes pour re:BASE 2026. Si vous avez une idée de conférence ou de table ronde qui conviendrait bien à l'événement, soumettez votre proposition via [ce formulaire](https://talks.base205al.org/rebase-2026/cfp). Nous recherchons des conférences et des tables rondes sur un large éventail de sujets liés au développement et à l'ingénierie logicielle, alors n'hésitez pas à soumettre votre proposition !
 
 ## Ateliers
 
-En plus des conférences et des tables rondes, et si l'espace le permet, nous espérons proposer des ateliers lors de re:BASE 2026. Si vous souhaitez animer un atelier, soumettez votre proposition via [ce formulaire](https://jotform.com/BASE205/rebase2026). Nous recherchons des ateliers sur un large éventail de sujets liés au développement et à l'ingénierie logicielle, alors n'hésitez pas à soumettre votre proposition !
+En plus des conférences et des tables rondes, et si l'espace le permet, nous espérons proposer des ateliers lors de re:BASE 2026. Si vous souhaitez animer un atelier, soumettez votre proposition via [ce formulaire](https://talks.base205al.org/rebase-2026/cfp). Nous recherchons des ateliers sur un large éventail de sujets liés au développement et à l'ingénierie logicielle, alors n'hésitez pas à soumettre votre proposition !
 
 ## Sponsoriser
 
-Des événements comme re:BASE ne peuvent pas avoir lieu sans le soutien généreux de nos sponsors. Si vous souhaitez sponsoriser re:BASE 2026, contactez-nous via [ce formulaire](https://jotform.com/BASE205/rebase2026). Nous proposons différentes formules de sponsoring, et nous serons heureux de travailler avec vous pour trouver celle qui convient le mieux à votre entreprise. Sponsoriser re:BASE 2026 est un excellent moyen de présenter votre entreprise à un public très engagé de professionnels du logiciel, et cela nous aide aussi à faire de l'événement un succès.
+Des événements comme re:BASE ne peuvent pas avoir lieu sans le soutien généreux de nos sponsors. Si vous souhaitez sponsoriser re:BASE 2026, contactez-nous via [ce formulaire](/rebase-2026-sponsor/). Nous proposons différentes formules de sponsoring, et nous serons heureux de travailler avec vous pour trouver celle qui convient le mieux à votre entreprise. Sponsoriser re:BASE 2026 est un excellent moyen de présenter votre entreprise à un public très engagé de professionnels du logiciel, et cela nous aide aussi à faire de l'événement un succès.

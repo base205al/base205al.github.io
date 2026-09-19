@@ -14,7 +14,7 @@ L'[appel à propositions (CFP) de re:BASE 2026 (les 4 et 5 novembre au Centre Mc
 
 # Opportunités de sponsoring
 
-Nous recherchons également des sponsors pour soutenir re:BASE 2026. Si vous souhaitez sponsoriser l'événement, contactez-nous via [ce formulaire](./rebase-2026-sponsor). Nous proposons différentes formules de sponsoring, et nous serons heureux de travailler avec vous pour trouver celle qui convient le mieux à votre entreprise. Sponsoriser re:BASE 2026 est un excellent moyen de présenter votre entreprise à un public très engagé de professionnels du logiciel, et cela nous aide aussi à faire de l'événement un succès.
+Nous recherchons également des sponsors pour soutenir re:BASE 2026. Si vous souhaitez sponsoriser l'événement, contactez-nous via [ce formulaire](/rebase-2026-sponsor/). Nous proposons différentes formules de sponsoring, et nous serons heureux de travailler avec vous pour trouver celle qui convient le mieux à votre entreprise. Sponsoriser re:BASE 2026 est un excellent moyen de présenter votre entreprise à un public très engagé de professionnels du logiciel, et cela nous aide aussi à faire de l'événement un succès.
 
 # Autre chose ?
 

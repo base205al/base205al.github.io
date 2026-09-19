@@ -14,7 +14,7 @@ event_location: https://maps.app.goo.gl/Gq6cTa1HFsUP1v5r5
 
 Tech returns to sloss.tech!
 
-We're running the engineering and development track, sloss.tech/dev, again this year!  Join us as at the [McWane Center](https://maps.app.goo.gl/Gq6cTa1HFsUP1v5r5) on June 25th and 26th for two days of fun with software development and engineering topics.  We'll have speakers from all over (but mostly local the the 'ham) sharing their knowledge and experience on a wide range of topics, from programming languages to software architecture to DevOps and more.
+We're running the engineering and development track, sloss.tech/dev, again this year!  Join us at the [McWane Center](https://maps.app.goo.gl/Gq6cTa1HFsUP1v5r5) on June 25th and 26th for two days of fun with software development and engineering topics.  We'll have speakers from all over (but mostly local to the 'ham) sharing their knowledge and experience on a wide range of topics, from programming languages to software architecture to DevOps and more.
 
 See our [schedule on the sloss.tech website](https://sloss.tech/agenda) for more details (Select `Track: Dev`).
 

@@ -14,7 +14,7 @@ tags:
 
 # Oportunidades de patrocinio
 
-También buscamos patrocinadores que nos ayuden a apoyar re:BASE 2026. Si te interesa patrocinar el evento, contáctanos a través de [este formulario](./rebase-2026-sponsor). Tenemos una variedad de paquetes de patrocinio disponibles, y con gusto trabajaremos contigo para encontrar el que mejor se adapte a tu empresa. Patrocinar re:BASE 2026 es una excelente manera de dar visibilidad a tu empresa ante un público muy comprometido de profesionales del software, y además nos ayuda a que el evento sea todo un éxito.
+También buscamos patrocinadores que nos ayuden a apoyar re:BASE 2026. Si te interesa patrocinar el evento, contáctanos a través de [este formulario](/rebase-2026-sponsor/). Tenemos una variedad de paquetes de patrocinio disponibles, y con gusto trabajaremos contigo para encontrar el que mejor se adapte a tu empresa. Patrocinar re:BASE 2026 es una excelente manera de dar visibilidad a tu empresa ante un público muy comprometido de profesionales del software, y además nos ayuda a que el evento sea todo un éxito.
 
 # ¿Algo más?
 

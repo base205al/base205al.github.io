@@ -1,11 +1,11 @@
 ---
 title: Non-Profit
 type: page
-description: BASE Non-Profit Information
+description: BASE is a 501(c)3 nonprofit
 menu: main
 ---
 ### Did you know?
-Birmingham Area Software Enthusiasts (BASE) is a 501(c)(3) non-profit organization!  Donations are accepted and are tax-deductible.
+Birmingham Area Software Enthusiasts (BASE) is a 501(c)3 non-profit organization. Donations are accepted and are tax-deductible.
 
 ### For Filing Donation Forms
 - Charity ID: 33-3914948

@@ -1,6 +1,11 @@
 ---
 title: "Articles"
-date: 2025-06-24T07:46:00-05:00
+description: "Lire."
+type: page
+featured_image: '/images/articles-header.jpg'
+menu:
+  main:
+    weight: 3
 ---
 
-Voici du contenu BASE pour votre plaisir !
+Découvrez les nouveautés, les projets à venir et les actualités intéressantes de BASE.

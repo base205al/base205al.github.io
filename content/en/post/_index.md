@@ -1,6 +1,11 @@
 ---
 title: "Articles"
-date: 2025-06-24T07:46:00-05:00
+description: "Read up."
+type: page
+featured_image: '/images/articles-header.jpg'
+menu:
+  main:
+    weight: 3
 ---
 
-Here is some BASE content for you to enjoy!
+See what's new, upcoming, and interesting with BASE.

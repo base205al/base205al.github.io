@@ -23,7 +23,7 @@ The decision to cancel re:BASE 2026 was not made lightly. We encountered several
 
 These challenges, in the order of their impact, were:
 - Time constraints
-  - The re:BASE team clearly underestimated the necessary time constraints for this effort, and were subsequently unable to meet those requirements.  
+  - The re:BASE team has run multiple events larger than this in the past, and clearly understands the necessary time constraints for this effort, but were subsequently unable to meet those requirements.  
   - This isn't a reflection of the dedication or effort of the team, but rather an acknowledgment of the complexity and scale of organizing such an event.
   - BASE is a volunteer-only organization, and things outside of this effort took precedence.
 - Financial constraints

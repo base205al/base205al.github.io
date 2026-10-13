@@ -8,8 +8,6 @@ tags:
 
 ---
 
-> [!CAUTION] NOTICE: re:BASE 2026 has been [cancelled](/post/rebase2026--abort/)
-
 # Call For Proposals for re:BASE 2026
 
 The [re:BASE 2026 (November 4-5  at the McWane Center) Call for Proposals (CFP)](https://talks.base205al.org/rebase-2026/cfp) is now live! We are looking for speakers, panelists, and workshop leaders to share their knowledge and expertise with the local software community. If you have an idea for a talk, panel, or workshop that you think would be a good fit for the event, we encourage you to [submit your proposal](https://talks.base205al.org/rebase-2026/cfp). 

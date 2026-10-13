@@ -8,9 +8,6 @@ tags:
 
 ---
 
-
-> [!CAUTION] NOTICE: re:BASE 2026 has been [cancelled](/post/rebase2026--abort/)
-
 # re:BASE 2026
 
 Almost a decade ago, a few people in the Birmingham area had an idea for a conference: we would put on an engineering-focused conference that would be welcoming to everyone, regardless of their background or experience level.  We wanted to create a space where people could come together to learn, share ideas, and connect with other software professionals in the area.  That idea was tentatively going to be called re:BASE.  Unfortunately, re:BASE was never truly able to get off the ground for a wide variety of reasons, but the idea of such an event has always been in the back of our minds.  It was the reason that we started running DevOps Days Birmingham in 2022, which ran for 3 years.  Last year our friends at [TechBirmingham](https://techbirmingham.com) and [sloss.tech](https://sloss.tech) helped us present Sloss.tech/dev during sloss.tech 2025, which was a huge success.  We repeated that partnership again this year for sloss.tech/dev 2026, and we were very pleased with it.  We hope to continue to partner with TechBirmingham and sloss.tech for many years to come, and we hope that sloss.tech/dev continues to be a great event for the local software community.

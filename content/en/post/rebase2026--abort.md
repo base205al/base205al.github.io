@@ -1,6 +1,6 @@
 ---
 date: '2026-10-13T04:30:00-05:00'
-draft: true
+draft: false
 title: 're:BASE 2026 CFP is Cancelled'
 featured_image: '/images/rebase/2026/reBASE_logo.png'
 tags: 
